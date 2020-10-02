@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "chalk": "2.0.0"
+  },
+  "renovate": {
+    "minor": {
+      "automerge": true
+    }
+  }
+}
