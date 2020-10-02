@@ -1,8 +1,5 @@
 {
   "dependencies": {
     "chalk": "2.4.2"
-  },
-  "renovate": {
-    "automerge": true
   }
 }
