@@ -1,5 +1,4 @@
 {
-    "automerge": true,
-    
+    "prCreation": "not-pending",
     "dependencyDashboard": true
-  }
+}
