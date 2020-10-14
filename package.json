@@ -1,6 +1,6 @@
 {
   "dependencies": {
     "chalk": "4.1.0",
-    "react": "16.13.1"
+    "react": "16.14.0"
   }
 }
